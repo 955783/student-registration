@@ -28,4 +28,4 @@ This project is a simple student registration system built using HTML, CSS, and 
 - The project structure is organized for ease of maintenance and readability.
 
 #git respository link
-link==>> https://github.com/your-955783/student-registration-system.git
+link==>>https://github.com/955783/student-registration/
